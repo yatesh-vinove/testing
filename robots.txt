@@ -1,0 +1,57 @@
+# NUTRISTAR
+
+User-agent: *
+Allow: /
+Allow: /*.js$
+Allow: /*.css$
+Allow: /*.jpg$
+Allow: /*.png$
+Allow: /*.jpeg$
+Allow: /*.gif$
+Disallow: /*?=
+
+
+User-agent: Googlebot
+Allow: /
+Allow: /*.js$
+Allow: /*.css$
+Allow: /*.jpg$
+Allow: /*.png$
+Allow: /*.jpeg$
+Allow: /*.gif$
+Disallow: /*?=
+
+
+User-agent: Googlesmartbot
+Allow: /
+Allow: /*.js$
+Allow: /*.css$
+Allow: /*.jpg$
+Allow: /*.png$
+Allow: /*.jpeg$
+Allow: /*.gif$
+Disallow: /*?=
+
+
+User-agent: Bingbot
+Allow: /
+Allow: /*.js$
+Allow: /*.css$
+Allow: /*.jpg$
+Allow: /*.png$
+Allow: /*.jpeg$
+Allow: /*.gif$
+Disallow: /*?=
+
+
+User-agent: ahrefsbot
+Allow: /
+Allow: /*.js$
+Allow: /*.css$
+Allow: /*.jpg$
+Allow: /*.png$
+Allow: /*.jpeg$
+Allow: /*.gif$
+Disallow: /*?=
+
+Sitemap: https://www.nutristar.in/sitemap.xml
