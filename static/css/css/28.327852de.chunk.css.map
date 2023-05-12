@@ -1,0 +1,1 @@
+{"version":3,"sources":["faq.scss"],"names":[],"mappings":"AAAA,gBACE,2BAAA,CACA,oCAFF,gBAGI,2BAAA,CAAA","file":"28.327852de.chunk.css","sourcesContent":[".hide-top-space {\n  margin-top: -130px !important;\n  @media screen and (max-width: 575px){\n    margin-top: -180px !important;\n  }\n}\n"]}
